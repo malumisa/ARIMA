@@ -1,4 +1,4 @@
 # ARIMA
 ARIMA Models
 
-# Outline of models
+# Outline of ARIMA models
