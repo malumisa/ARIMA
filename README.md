@@ -1,2 +1,2 @@
 # ARIMA
-ARIMA
+ARIMA G
