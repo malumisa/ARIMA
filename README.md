@@ -1,2 +1,2 @@
 # ARIMA
-ARIMA quarterly 
+ARIMA
